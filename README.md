@@ -20,7 +20,7 @@ public class VivekKumar {
     String email       = "vpandey442003@gmail.com";
 
     String[] currentWork = {
-        "Java Trainer @ Appwars Technologies, Noida",
+        "Java Developer @ Appwars Technologies, Noida",
         "Delivering freelance web projects for real clients"
     };
 
@@ -94,8 +94,8 @@ public class VivekKumar {
 
 ## 💼 Experience
 
-🎓 **Java Trainer** — Appwars Technologies Pvt. Ltd., Noida *(Feb 2025 – Present)*
-> Conducting Core Java training sessions covering OOPs, JDBC, JSP, Servlets & MySQL. Guiding students through real-time project development and interview preparation.
+🎓 **Java Developer** — Appwars Technologies Pvt. Ltd., Noida *(Feb 2025 – Present)*
+> Conducting Core Java training sessions covering OOPs, JDBC, JSP, Servlets & MySQL. Guiding students & working professional through real-time project development .
 
 🏅 **Certification** — Java Full Stack Development, JSpiders Noida *(Jan 2024 – Dec 2024)*
 
@@ -116,7 +116,6 @@ public class VivekKumar {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-kumar-8b813b218/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivekkumar-pandey)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vpandey442003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live%20Client%20Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.acservicebysandeep.com/)
 
 </div>
 
