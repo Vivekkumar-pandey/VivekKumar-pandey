@@ -16,7 +16,7 @@ public class VivekKumar {
 
     String name        = "Vivek Kumar";
     String location    = "Noida, Uttar Pradesh 🇮🇳";
-    String role        = "Java Full Stack Developer & Trainer";
+    String role        = "Java Full Stack Developer";
     String email       = "vpandey442003@gmail.com";
 
     String[] currentWork = {
