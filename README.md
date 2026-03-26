@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vivek%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Java%20Trainer%20%7C%20Frontend%20Builder&descAlignY=58&descColor=90caf9&animation=fadeIn" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Java+Trainer+%40+Appwars+Technologies+%F0%9F%8E%93;Freelance+Web+Developer+%F0%9F%8C%90;Building+Real+Projects+for+Real+Clients+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Java+Developer+%40+Appwars+Technologies+%F0%9F%8E%93;Freelance+Web+Developer+%F0%9F%8C%90;Building+Real+Projects+for+Real+Clients+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
