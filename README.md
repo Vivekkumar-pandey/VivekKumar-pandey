@@ -22,7 +22,7 @@ package dev.vivek;
 
 /**
  * @author  Vivek Kumar
- * @version 2025
+ * @version 2024
  * @since   B.Tech Computer Engineering, IKGPTU
  */
 public class VivekKumar extends JavaDeveloper {
@@ -215,7 +215,7 @@ package dev.vivek;
 
 /**
  * @author  Vivek Kumar
- * @version 2025
+ * @version 2024
  * @since   B.Tech Computer Engineering, IKGPTU
  */
 public class VivekKumar extends JavaDeveloper {
@@ -333,7 +333,7 @@ public class VivekKumar extends JavaDeveloper {
     ▸ Intensive training in end-to-end Java web development
 
 🌐  Web Development Certification         Aug 2022 – Sep 2022
-⚡  Core Java & Aptitude Training         Jun 2022 – Jul 2022
+⚡  Core Java & Aptitude Training         Jun 2023 – Jul 2023
 ```
 
 ---
@@ -347,11 +347,11 @@ public class VivekKumar extends JavaDeveloper {
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vivekkumar-pandey&theme=radical&hide_border=true&background=0D1117)
 
-</div>
+</div> -->
 
 ---
 
